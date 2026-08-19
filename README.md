@@ -42,7 +42,8 @@
 binbin-teacher-workflow/
 ├── SKILL.md      # 技能主文件（完整工作流与触发说明）
 ├── meta.json     # 技能元数据（中文展示名等）
-└── README.md     # 本说明文件
+├── README.md     # 本说明文件
+└── LICENSE       # MIT 开源许可协议
 ```
 
 ## 执行流程概览
@@ -67,7 +68,14 @@ binbin-teacher-workflow/
 
 ## License
 
-本项目仅供学习与个人备课使用。产出物内容由 AI 生成，仅供参考，使用前请教师审核。
+本项目采用 [MIT License](./LICENSE) 开源。你可以使用、修改和分发本 Skill，但需保留原版权与许可声明。
+
+本 Skill 及其 AI 生成的产出物仅供参考，使用前请由教师结合实际教学要求审核。
+
+## 作者与交流
+
+- 版权所有：彬彬
+- 交流微信：`binbinpm`
 
 ---
 
