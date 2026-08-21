@@ -1,4 +1,8 @@
 ---
+name: binbin-teacher-workflow
+license: MIT
+author: 彬彬
+description: "教师公开课备课端到端工作流：从主题与资料采集、教学目标和互动设计确认，到资料整理、课堂结构设计，以及教学设计、PPT、互动网页和课堂工具初稿生成。"
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3
@@ -8,7 +12,6 @@ AIGC:
     PropagateID: 8cb8a9df55fe1a7565e767a86f7e9940_114a91d59a2f11f19bec525400826444
     ReservedCode2: h7jaF42BlF5NKi2WWdbAKjTTB8fFWTQlW34oQL1a6Y0VDxaFwx+EDnPVRgY4vhlXJwS2ZRbQ7bbueIVrpO3cvOR8jS0+tKC4peyfipy7f82SAKJpP7Z2VO+euutLCgbBeXGt3b/i4yVkeWL2Ek2sRgpeapJkPisUJ1R1lSiipVYUPlzAUT1mmUGGJgk=
 ---
-
 
 
 # 彬彬-教师公开课工作流（Skill 配置）
